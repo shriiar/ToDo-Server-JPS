@@ -57,7 +57,7 @@ async function run() {
         })
     }
     finally {
-        // console.log('GG');
+        // console.log('gg');
     }
 }
 run().catch(console.dir);
